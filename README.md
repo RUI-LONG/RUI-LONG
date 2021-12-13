@@ -9,8 +9,9 @@ I am a passionate algorithm engineer from Taiwan.
 - Computer VIsion
 - Human–computer interaction
 
-**My Project Portfolio**:
+**My Projects**:
  - [Project Portfolio](https://rui-long.github.io/portfolio/)
+ - [Youtube Channel](https://www.youtube.com/user/v6854/featured)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
