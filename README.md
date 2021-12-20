@@ -1,4 +1,4 @@
-### Hi there, I'm [RUI-LONG](https://rui-long.github.io/portfolio/#/) 👋
+### Hi there, I'm [RUI-LONG](https://rui-long.github.io/portfolio/#/) (Ryan)👋
 
 I am a passionate algorithm engineer from Taiwan. 
 
