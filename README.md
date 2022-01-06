@@ -2,8 +2,6 @@
 
 I am a passionate algorithm engineer from Taiwan. 
 
-![RUI-LONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUI-LONG&show_icons=true&theme=radical&count_private=true)
-
 **My Reseach Interest**:
 - Natural Language Processing
 - Computer VIsion
