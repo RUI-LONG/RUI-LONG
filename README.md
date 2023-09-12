@@ -2,10 +2,10 @@
 
 I am a passionate algorithm engineer from Taiwan. 
 
-**My Reseach Interest**:
+**My Research Interest**:
 - Natural Language Processing
-- Computer VIsion
-- Human–computer interaction
+- Computer Vision
+- Human-computer interaction
 
 **My Projects**:
  - [Project Portfolio](https://rui-long.github.io/portfolio/)
